@@ -2,6 +2,7 @@
  <h1>Hi there 👋 I am Lucas Woibau</h1>
 
 🔥 Web Developer Sudent
+🔭 currently working as a freelance developer.
 
 <!--
 **Lucas-Woibau/Lucas-Woibau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,7 @@
 <img align="right" width="375px" height="812px" src="https://raw.githubusercontent.com/gist/Lucas-Woibau/8f95cd91826c09fca22fa5a6ec20e621/raw/b7b2b5238eac4aa0c3d4925d9c8003b7b0190a23/githubcard.svg"/>
-### Hi there 👋
+### Hi there 👋 I am Lucas Woibau
+
+🔥 Web Developer Sudent
 
 <!--
 **Lucas-Woibau/Lucas-Woibau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

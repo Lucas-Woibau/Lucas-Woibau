@@ -4,6 +4,8 @@
 <p>🔥 Web Developer Sudent.</p>
 <p>🔭 Currently working as a freelance developer.</p>
 
+<h1>Tech Stack</h1>
+![HTML](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp
 
 
 <!--

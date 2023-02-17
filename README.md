@@ -4,10 +4,6 @@
 <p>🔥 Web Developer Sudent.</p>
 <p>🔭 Currently working as a freelance developer.</p>
 
-<h1>Links</h1>
-<a href="https://www.instagram.com/lucaswoibau7/">Instagram</a></li>
-<br>
-<a href="https://www.linkedin.com/in/lucas-woibau/">Linkedin</a></li>
 
 
 <!--

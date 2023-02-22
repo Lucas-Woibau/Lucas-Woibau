@@ -1,6 +1,6 @@
  <h1>Hi there 👋 I am Lucas Woibau</h1>
 
-<p>🔥 Web Developer Sudent.</p>
+<p>🔥 Web Developer Student.</p>
 <p>🔭 Currently working as a freelance developer.</p>
 
 

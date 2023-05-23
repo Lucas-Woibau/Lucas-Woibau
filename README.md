@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Woibau;I'm+22+years+old;I+from+Brasil,+ES;I+study+information+systems+at+UNESC;+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lucas-Woibau&theme=gotham)
-
 <div align="center">
  <img height="200em" whidth="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Woibau&layout=compact&langs_count=7&theme=gotham"/> 
 </div>

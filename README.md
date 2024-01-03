@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=859fc2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Woibau;I'm+22+years+old;I+from+Brasil,+ES;I+study+information+systems;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=343642&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Woibau;I'm+22+years+old;I+from+Brasil,+ES;I+study+information+systems;+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ### Main skills:
@@ -29,4 +29,4 @@
 <!--### Studying in this moment:
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp; -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>

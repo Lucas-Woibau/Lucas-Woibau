@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Lucas+Woibau;I'm+24+years+old;.NET+Full+Stack+Developer;+Welcome!+:%29)](https://git.io/typing-svg)
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+
+I’m Lucas Woibau, a Full Stack .NET and Angular Developer.
+And I have a YouTube channel where I share my knowledge about programming and game development called [dewoibau](https://www.youtube.com/@dewoibau).
 
 ### Languages:
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)

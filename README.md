@@ -2,8 +2,8 @@
 
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-I’m Lucas Woibau, a Full Stack .NET and Angular Developer.
-And I have a YouTube channel where I share my knowledge about programming and game development called [dewoibau](https://www.youtube.com/@dewoibau).
+## I’m Lucas Woibau, a Full Stack .NET and Angular Developer.
+# And I have a YouTube channel where I share my knowledge about programming and game development called [dewoibau](https://www.youtube.com/@dewoibau).
 
 ### Languages:
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
